@@ -9,7 +9,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
-\ProvidesClass{scienceUdeS}[2018/05/23 v1.0 document pour these et memoire de l'UdeS]
+\ProvidesClass{scienceUdeS-modifié}[2018/05/23 v1.0 document pour these et memoire de l'UdeS]
 \newcommand\@ptsize{}
 \newif\if@restonecol
 \newif\if@titlepage
